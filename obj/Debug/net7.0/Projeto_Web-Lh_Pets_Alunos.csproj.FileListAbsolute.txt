@@ -1,0 +1,6 @@
+C:\Users\SILVANO\Desktop\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net7.0\Projeto_Web-Lh_Pets_Alunos.csproj.AssemblyReference.cache
+C:\Users\SILVANO\Desktop\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net7.0\Projeto_Web-Lh_Pets_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SILVANO\Desktop\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net7.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfoInputs.cache
+C:\Users\SILVANO\Desktop\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net7.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfo.cs
+C:\Users\SILVANO\Desktop\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net7.0\Projeto_Web-Lh_Pets_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\SILVANO\Desktop\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net7.0\Projeto_Web-Lh_Pets_Alunos.MvcApplicationPartsAssemblyInfo.cache
