@@ -1,4 +1,7 @@
-namespace Projeto_Web_Lh_Pets_Alunos;
+using System.Data.SqlClient;
+
+namespace Projeto_Web_Lh_Pets_versão_1
+{
 
 public class Program
 {
@@ -10,7 +13,7 @@ public class Program
         app.MapGet("/", () => "Projeto Web - LH Pets versão 1");
 
         app.UseStaticFiles();
-        app.MapGet("/index", (HtppContext contexto)=>{
+        app.MapGet("/index", (HttpContext contexto)=>{
             contexto.Response.Redirect("index.html", false);
             
         });
@@ -24,7 +27,7 @@ public class Program
         app.Run();
     }
 }
-
+}
 
 
 
